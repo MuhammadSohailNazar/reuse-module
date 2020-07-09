@@ -1,3 +1,7 @@
-import {Button}  from './button';
+import Button from './Button';
+import Div from './Div'
 
-export default [Button];
+export {
+    Button,
+    Div
+};
